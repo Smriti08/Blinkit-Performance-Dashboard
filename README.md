@@ -6,22 +6,22 @@ This project aims to analyze various aspects of sales data to derive insights an
 
 ## Business Requirements
 
-### 1. Total Sales by Fat Content
+### 1. Total Sales by Calorie Content
 
-- **Objective:** Analyze the impact of fat content on total sales.
-- **Additional KPI Metrics:** Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+- **Objective:** Analyze the impact of Calorie content on total sales.
+- **Additional KPI Metrics:** Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with calorie content.
 - **Chart Type:** Donut Chart
 
 ### 2. Total Sales by Item Type
 
 - **Objective:** Identify the performance of different item types in terms of total sales.
-- **Additional KPI Metrics:** Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+- **Additional KPI Metrics:** Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with calorie content.
 - **Chart Type:** Bar Chart
 
-### 3. Fat Content by Outlet for Total Sales
+### 3. Calorie Content by Outlet for Total Sales
 
-- **Objective:** Compare total sales across different outlets segmented by fat content.
-- **Additional KPI Metrics:** Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+- **Objective:** Compare total sales across different outlets segmented by calorie content.
+- **Additional KPI Metrics:** Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with calorie content.
 - **Chart Type:** Stacked Column Chart
 
 ### 4. Total Sales by Outlet Establishment
@@ -55,7 +55,7 @@ The following key performance indicators (KPIs) are used in the analysis:
 
 ## Data Sources
 
-The data used for this analysis is obtained from "C:\Users\smrit\Downloads\BlinkIT Grocery Data.csv" The dataset includes information on sales, fat content, item types, outlet details, and customer ratings.
+The data used for this analysis is obtained from "C:\Users\smrit\Downloads\BlinkIT Grocery Data.csv" The dataset includes information on sales, calorie content, item types, outlet details, and customer ratings.
 
 ## Setup and Usage
 
